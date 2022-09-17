@@ -1,0 +1,153 @@
+.home{
+    background: url(imgs/photo_2022-09-17_18-33-14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:top; 
+    color: #fff;
+    padding-bottom: 100px;
+    .navbar{
+        background: #fff;
+        padding: 20px 0;
+        .navbar-brand{
+            img{
+                width: 100px;
+            }
+        }
+        li{
+            color: black;
+        }
+        .bg{
+            background: rgba(0, 0, 0, 0.505);
+        }
+    }
+    .content1{
+        padding: 100px 0 0 0;
+        .row{
+            .col-12{
+                .display-1{
+                    padding-bottom: 20px;
+                }
+                .btn{
+                    margin-top: 30px ;
+                    border: 1px solid #fff;
+                    border-radius: 40px;
+                }
+           
+           
+            }
+        }
+    }
+    .container{
+        .cols{
+          .col-12{
+            padding: 0;
+            .cool{
+                margin: 12px;
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                border-radius: 5px;
+
+                background: #FFF;
+                padding: 60px 10px;
+            }
+            .h1{
+                padding-bottom: 20px;
+            }
+            .c1{
+                color: #3A0E63;
+            }
+            .c2{
+                color: #C04A87;
+            }
+            .c3{
+                color: #7145E0;
+            }
+             span{
+                color: #605d5d;
+             }
+             i{
+                color: #000;
+                display: block;
+                padding-top: 15px;
+             }
+          }
+        } 
+       }
+}
+.contact{
+    background: #7145E0;
+    padding: 100px 0;
+   
+    h1{
+      padding-bottom:40px;
+    }
+    .btn{
+        color: #fff;
+        border: 1px solid #fff;
+        border-radius: 20px ;
+        margin-top: 30px;
+    }
+}
+.content{
+    background: url(imgs/photo_2022-09-17_22-53-23.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 90px 0;
+}
+.infor{
+    .display-2{
+        padding: 100px 0 30px 0;
+    }
+    .btn{
+        margin-top: 30px;
+        border: 1px solid #fff;
+        border-radius: 30px;
+        padding: 15px 40px;
+    }
+}
+.shop{
+    padding: 80px 0 40px 0;
+    h1{
+        padding-bottom: 10px;
+    }
+    .fs-5{
+        padding-bottom: 80px;
+    }
+}
+.sec{
+    color: #fff;
+    background: #C04A87;
+    padding: 80px 0;
+    .display-1{
+        padding: 40px 0 30px 0;
+    }
+    .btn{
+        margin:40px 0 0 0;
+        padding:15px 80px ;
+        border-radius: 30px;
+        border: 1px solid #fff;
+        color: #fff;
+    }
+}
+.footer{
+    padding: 100px 0 0 0 ;
+    .col-12{
+        padding: 0 100px;
+        .h1{
+            padding: 0 200px 0 0;
+        }
+        .btn{
+            padding: 10px 40px;
+            display: inline-block;
+            border-radius: 30px;
+        }
+
+    }
+}
+.foter2{
+    padding: 20px 0 0 0;
+    .display-3{
+        padding-bottom: 12px;
+    }
+}
